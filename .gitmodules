@@ -1,0 +1,9 @@
+[submodule "labs"]
+	path = labs
+	url = git@github.com:CaptainNemo11/6.S081-labs.git
+[submodule "xv6-riscv"]
+	path = xv6-riscv
+	url = https://github.com/mit-pdos/xv6-riscv.git
+[submodule "xv6-riscv-book"]
+	path = xv6-riscv-book
+	url = https://github.com/mit-pdos/xv6-riscv-book.git/
